@@ -475,7 +475,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .dsa::before{
-    width: 80%;
+    width: 60%;
 }
 .skills-content .right .java::before{
     width: 80%;
@@ -484,10 +484,10 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .python::before{
-    width: 85%;
+    width: 60%;
 }
 .skills-content .right .mongodb::before{
-    width: 75%;
+    width: 80%;
 }
 .skills-content .right .microservices::before{
     width: 80%;
@@ -900,3 +900,4 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+/* footer */
