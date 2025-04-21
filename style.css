@@ -223,8 +223,8 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 400px;
-    width: 400px;
+    height: 600px;
+    width: 500px;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -472,9 +472,12 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .oops::before{
-    width: 80%;
+    width: 75%;
 }
 .skills-content .right .dsa::before{
+    width: 60%;
+}
+.skills-content .right .aws::before{
     width: 60%;
 }
 .skills-content .right .java::before{
@@ -489,15 +492,16 @@ section .title::after{
 .skills-content .right .mongodb::before{
     width: 80%;
 }
-.skills-content .right .microservices::before{
-    width: 80%;
+.skills-content .right .aws::before::before{
+    width: 60%;
 }
 .skills-content .right .aws::before{
     width: 80%;
 }
-.skills-content .right .powerbi::before{
-    width: 90%;
+.skills-content .right .docker::before{
+    width: 70%;
 }
+
 
 /* teams section styling */
 .teams .title::after{
